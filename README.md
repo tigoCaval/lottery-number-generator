@@ -21,3 +21,7 @@
 ### Código fonte tigo/lottery
 
 - [tigo/lottery](https://github.com/tigoCaval/Lottery-Br)
+
+### Colaborador
+
+- [Tiago A C Pereira](https://github.com/tigoCaval)
