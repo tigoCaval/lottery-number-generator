@@ -1,4 +1,4 @@
-# GERADOR DE NÚMEROS ALEATÓRIOS PARA LOTERIAS
+# GERADOR DE NÚMEROS ALEATÓRIOS 
 **Licença MIT**. Veja o arquivo [License](https://github.com/tigoCaval/lottery-number-generator/blob/main/LICENSE).
 
 *Se você achou este projeto útil, considere fazer uma doação (de qualquer valor) ou deixe sua estrela :star: para apoiar o desenvolvedor.* 
