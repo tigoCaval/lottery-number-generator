@@ -1,1 +1,1 @@
-# lottery-number-generator
+# GERADOR DE NÚMEROS ALEATÓRIOS PARA LOTERIAS
