@@ -1,5 +1,5 @@
 {
     "require": {
-        "tigo/lottery": "^0.0.2"
+        "tigo/lottery": "^0.0.3"
     }
 }

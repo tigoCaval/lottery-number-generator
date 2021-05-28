@@ -42,7 +42,10 @@ class Game
                 break;
             case 4:
                 $this->ticket = $this->lot->LotoMania($scorer,$qtd);
-                break;             
+                break;  
+            case 5:
+                $this->ticket = $this->lot->superSete($scorer,$qtd);
+                break;               
             default:
                 echo "<div class='alert alert-danger'>Jogo não selecionado</div>";
                 break;
